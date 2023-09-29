@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Website Development & Web Assembly<br>I'm currently learning Sofware Engineering w/ ALX<br>Ask me about - video games, anime<br>
+I'm currently working on Website Development & Assembly<br>I'm currently learning Sofware Engineering w/ ALX<br>Ask me about - video games, anime<br>
 
 
 ## 🌐 Socials:
