@@ -28,9 +28,9 @@ Bash scripting is another area I have extensive experience, automating tasks & i
 
 ### Tools for Data Analysis:
 
-| Git | Python3 | MySQL | Postgres | Linux |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python3" alt="Python3" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|
+| Python3 | MySQL | Postgres | Linux |
+|----------|----------|----------|----------
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python3" alt="Python3" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|
 
 ### Environments, Testing, Other:
 
