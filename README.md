@@ -39,7 +39,7 @@ Bash scripting is another area I have extensive experience, automating tasks & i
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/>|
 
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/WambuaJoe/WambuaJoe/output/github-contribution-grid-snake.svg" -dark/>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/WambuaJoe/WambuaJoe/output/github-contribution-grid-snake.svg" />
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
