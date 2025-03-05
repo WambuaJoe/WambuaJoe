@@ -38,5 +38,11 @@ Bash scripting is another area I have extensive experience, automating tasks & i
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/>|
 
+#
+<div align="center">
+    <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/66558fb3b998f3b3c7914bcf?variant=dark" alt="roadmap.sh">
+    </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
