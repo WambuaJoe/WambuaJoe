@@ -1,18 +1,13 @@
-###     Who Am I?  
+##     Who Am I?  
 
 I am a passionate, self-taught backend developer with a diverse background in different tech. I've dedicated the last 2 years to mastering Python and building efficient systems. In addition, I've explored (and played around) the world of SQL, playing with various data sets to better understand the world of data and how to analyze it.
 
-Bash scripting is another area I have extensive experience, automating tasks & improving workflow efficiency. Recently, I've been dipping my fingers into GitHub Actions, experimenting and leveraging its capabilities to streamline CI/CD processes over the past 5 weeks.
+Bash scripting is another area in which I have extensive experience, automating tasks & improving workflow efficiency. Recently, I've been dipping my fingers into GitHub Actions, experimenting and leveraging its capabilities to streamline CI/CD processes over the past 5 weeks.
 
+Portfolio: https://flowcv.me/joseph-katuawambua
 <br/>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://https://discordapp.com/users/blvckb3ard) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@B3ardChan) 
-
 ## My Skill Set - Languages & Tools
-
-
 
 ### Languages:
 
